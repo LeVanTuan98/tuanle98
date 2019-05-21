@@ -13,12 +13,12 @@
         <div>
             <form>
                 <div class="form-group">
-                    <label for="exampleInputEmail1">Height</label>
-                    <input type="number" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter height">
+                    <label for="exampleInputEmail1">Height:</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1"  placeholder="Enter height">
                  </div>
                 <div class="form-group">
-                    <label for="exampleInputPassword1">Weight</label>
-                    <input type="number" class="form-control" id="exampleInputPassword1" placeholder="Enter weight">
+                    <label for="exampleInputPassword1">Weight:</label>
+                    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter weight">
                 </div>
                 <button type="submit" class="btn btn-primary">Calculate</button>
             </form>
